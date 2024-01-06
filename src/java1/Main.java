@@ -5,15 +5,4 @@ public class Main {
         System.out.println("Hello, Mars!");
         System.out.println("By: Sayed");
     }
-
-    public static void printMessage(String message)
-    {
-        System.out.println(message);
-    }
-
-    private static void printHeader()
-    {
-        System.out.println("*********************************");
-    }
-
 }
