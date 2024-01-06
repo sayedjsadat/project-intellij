@@ -4,4 +4,14 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Mars!");
     }
+
+    public static void printMessage(String message)
+    {
+        System.out.println(message);
+    }
+
+    private static void printHeader()
+    {
+        System.out.println("*********************************");
+    }
 }
