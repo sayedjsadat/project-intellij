@@ -11,4 +11,9 @@ public class Main {
         System.out.println(message);
     }
 
+    private static void printHeader()
+    {
+        System.out.println("*********************************");
+    }
+
 }
