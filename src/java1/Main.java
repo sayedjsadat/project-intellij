@@ -6,9 +6,4 @@ public class Main {
         System.out.println("By: Sayed");
     }
 
-    public static void printMessage(String message)
-    {
-        System.out.println(message);
-    }
-
 }
